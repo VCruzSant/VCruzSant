@@ -6,10 +6,11 @@
 
 <div  align="center" style="margin-bottom:100px">
     <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=VCruzSant&theme=radical&mode=weekly" />
+    <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=VCruzSant&theme=radical&mode=weekly" />
 </div>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-    [![VCruzSant's GitHub stats](https://github-readme-stats.vercel.app/api?username=VCruzSant)](https://github.com/VCruzSant/github-readme-stats)
+  <img width=55% align="center"  src="https://github.com/VCruzSant/github-readme-stats&theme=radical&mode=weekly" />
 </div>&nbsp;
  
  &nbsp;
