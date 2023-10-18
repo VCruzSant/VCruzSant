@@ -1,4 +1,5 @@
-<p align="center">I ❤️ solve great challenges using tech. <br><br> I am a backend developer in python</p>&nbsp;
+<h1 align="center">I`m a backend developer</h1>
+<p align="center">I ❤️ solve great challenges using tech</p>&nbsp;
 
 <div align="center">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
