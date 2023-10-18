@@ -2,11 +2,14 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I am a backend developer in python</p>&nbsp;
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=VCruzSant&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-VCruzSant.vercel.app/api/top-langs/?username=VCruzSant&show_icons=true&theme=radical&layout=compact" />
- </div>
+[![VCruzSant's GitHub stats](https://github-readme-stats.vercel.app/api?username=VCruzSant)](https://github.com/VCruzSant/github-readme-stats)
+</div>
  
  &nbsp;
  &nbsp;
