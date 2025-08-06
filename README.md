@@ -24,15 +24,10 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
-
-
-[![My Skills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
-
 
 #### Studying in this moment:
 
-[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform)](https://skillicons.dev)
 
 
 #### Workstation Tools:
